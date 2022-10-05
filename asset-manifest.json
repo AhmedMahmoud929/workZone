@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/workZone/static/css/main.c4facd8d.css",
+    "main.js": "/workZone/static/js/main.6ace5b74.js",
+    "static/media/eventsModel.png": "/workZone/static/media/eventsModel.785687054f6335e5ce80.png",
+    "static/media/homeModel.png": "/workZone/static/media/homeModel.f174cf6071a143a56312.png",
+    "static/media/slide1.jpg": "/workZone/static/media/slide1.229771574b333e9ef32d.jpg",
+    "static/media/slide2.jpg": "/workZone/static/media/slide2.ff3f7fe7e43d18c07342.jpg",
+    "static/media/slide4.jpg": "/workZone/static/media/slide4.e9cbcaf12829dd19d46e.jpg",
+    "static/media/slide3.jpg": "/workZone/static/media/slide3.d5d196f296466acbdf5f.jpg",
+    "static/media/courses.png": "/workZone/static/media/courses.bd80e70ed71f0da44ef8.png",
+    "static/media/events.png": "/workZone/static/media/events.db0b3f9ba7ee33772edb.png",
+    "static/media/workspace.png": "/workZone/static/media/workspace.2288a512e3dbaf1ab75f.png",
+    "static/media/logo.png": "/workZone/static/media/logo.bf20ddf427d0a6276d82.png",
+    "index.html": "/workZone/index.html",
+    "main.c4facd8d.css.map": "/workZone/static/css/main.c4facd8d.css.map",
+    "main.6ace5b74.js.map": "/workZone/static/js/main.6ace5b74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4facd8d.css",
+    "static/js/main.6ace5b74.js"
+  ]
+}
